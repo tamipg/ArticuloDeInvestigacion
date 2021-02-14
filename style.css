@@ -1,0 +1,11 @@
+body {
+    background-color: #b2dfdb;
+}
+#container {
+    background-color: #395270;
+    margin: 15px;
+    padding: 10px;
+}
+a.enlace {
+    text-decoration: none;
+}
