@@ -2,10 +2,36 @@ body {
     background-color: #b2dfdb;
 }
 #container {
-    background-color: #395270;
+   
     margin: 15px;
     padding: 10px;
 }
-a.enlace {
+article {
+    margin: 15px;
+    padding-top: 30px;
+}
+#cabecera {
+    width: 100%;
+}
+nav {
+    width: 100%;
+    background-color: #ffffff;
+}
+#logo {
+    float: right;
+}
+.enlace {
+    float: left;
     text-decoration: none;
+    color: #ffffff;
+    background-color: #00001e;
+    padding: 10px;
+    margin: 10px;
+}
+.enlace:hover {
+    background-color: #819ca9;
+    color: #00001e;
+}
+table {
+    text-align: center;
 }
