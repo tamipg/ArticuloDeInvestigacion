@@ -1,12 +1,20 @@
 header {
-font-size: medium;
+    font-size: medium;
+    width: 100%;
 }
 nav {
+    width: 100%;
     padding: 30px;
     background-color: #002171;
+    padding-right: 0px;
 }
 main {
     background-color: #395270;
+    padding-bottom: 15px;
+}
+h1,h2,h3{
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
 }
 .texto {
     color: #ffffff;
@@ -27,32 +35,23 @@ text-align: center;
 section {
 font-size: large;
 }
-footer {
+#articulo {
     background-color: #395270;
-    padding: 10px;
 }
-footer.pie {
+footer {
     background-color: #002171;
     text-align: center;
     color: #ffffff;
+    width: 100%;
 }
 #container {   
-    margin: 15px;
-    padding: 10px;
     background-color: #819ca9;
 }
 article {
-    margin: 15px;
     padding-top: 30px;
 }
-#cabecera {
-    width: 100%;
-}
-
 #logo {
     float: right;
-    margin-top: -40px;
-    margin-bottom: 50px;
 }
 .enlace {
     float: left;
