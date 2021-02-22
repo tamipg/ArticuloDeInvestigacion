@@ -21,9 +21,15 @@ h1,h2,h3{
     font-family: 'Roboto', sans-serif;
 }
 #resumen {
-    background-color: #819ca9;
+    background-color: #f5f5f5;
     color: #00001e;
     padding: 10px;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 10px 5px 5px black;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 18px;
+
 }
 #autor{
     font-size: large;
